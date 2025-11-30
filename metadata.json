@@ -1,0 +1,5 @@
+{
+  "name": "AutoSchedule - Interview System",
+  "description": "A comprehensive interview scheduling system simulating a Java/Spring architecture. Features interviewer availability management, candidate slot booking with race condition simulation, and cursor-based pagination.",
+  "requestFramePermissions": []
+}
